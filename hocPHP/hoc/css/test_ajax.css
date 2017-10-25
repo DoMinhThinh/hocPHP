@@ -1,0 +1,22 @@
+#tenuser{
+	text-align:center;
+	size:30;
+	color:#F00;
+	text-shadow:inherit;	
+}
+#pwd{
+	text-align:left;
+	size:24;
+	color:solid;	
+}
+#quyen{
+	text-align:left;
+	size:24;
+	color:solid;	
+
+}
+#contain{
+	border:solid black 1px;
+	margin:20px;
+	padding:inherit;	
+}

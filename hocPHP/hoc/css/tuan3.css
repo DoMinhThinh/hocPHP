@@ -1,0 +1,13 @@
+/* CSS Document */
+
+#box{
+	height: 50px;
+	width:75px;
+	text-align:center;
+	padding-top:30px;
+	color:#FFF;
+	background:#C63;
+	float:left;
+	margin-left:20px;
+	margin-bottom:20px;
+}
